@@ -3,10 +3,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/QuocEran/Next.js-Tailwind-Sample">
-    <img src="public/images/png/next_tailwind.png" alt="Logo"  width="246" height="70">
-  </a>
-
   <h3 align="center">Next.js + Tailwind + Typescript sample</h3>
 
   <p align="center">
@@ -57,10 +53,6 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-<div align="center">
-  <img src="public/images/png/screenshot.png" alt="screenshot" style="object-fit: contain; width:100%;"/>
-</div>
 
 🚀 Simple templete with base configurations written in Next.js, Tailwind CSS and TypeScript.
 
